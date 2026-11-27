@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+
+# 旧版草稿，不随公开仓库发布（本地保留）
+flexpath-测试入门指南.md
+flexpath-测试用例矩阵.xlsx
+scripts/gen_test_matrix.py
